@@ -1,0 +1,42 @@
+       #feedbackta{
+         text-align: center;
+        font-weight: bold;
+        font-size: 20px;
+       }
+       
+       #feedfs{ 
+            
+            box-sizing: border-box; 
+            background: lightcyan;
+            font-weight: bold;         
+        }
+
+        #lgnd{
+            
+            color: darkblue;
+            font-weight: bold;
+        }
+
+        #customer{
+            font-weight: bold;
+        }
+
+        #feedfs2{ 
+            
+            box-sizing: border-box; 
+            background: lightcyan;
+            font-weight: bold;
+        }
+
+        #h2feedback{
+
+            color: darkblue;
+            text-align: center;
+            font-weight: bold;
+            font-size: 25px;
+        }
+
+
+
+
+

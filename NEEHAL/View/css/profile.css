@@ -1,0 +1,20 @@
+#profile{
+	margin: 0 auto;
+	background: lightgrey;
+	border-color: darkblue;
+	text-align: center;
+	box-sizing: border-box;
+	width: 50%;
+}
+
+#profilelgnd{
+	color: darkred;
+	text-align: center;
+	font-weight: bold;
+}
+
+#h1tag{
+	color: darkmagenta;
+	text-align: center;
+	font-size: 25px;
+}

@@ -1,0 +1,22 @@
+.form-div{
+	width: 100%; 
+	height:auto; 
+	background-color: rgb(153, 153, 255); 
+	text-align: center;
+}
+.form-legend{
+	color: black;
+	font-size: 30px;
+}
+.form-fieldset{
+	border: 2px solid green;
+}
+.submit{
+	height: 40px;
+	width: 150px;
+	background-color: orange;
+	border-radius: 5px;
+}
+.submit:hover{
+	border: 2px solid green;
+}

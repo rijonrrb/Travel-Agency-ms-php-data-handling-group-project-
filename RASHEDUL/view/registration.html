@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Admin_Registration</title>
+	<link rel="stylesheet"  href="../RASHEDUL/view/css/registration.css">
+	<script src="../RASHEDUL/view/js/registration.js"></script>
+</head>
+<body>
+
+	<h1 class="header"><u class="tag">Admin Registration</u></h1>
+	<form method="POST" action="../RASHEDUL/controller/registrationAction.php" enctype="multipart/form-data" name="form" onsubmit="ajax(this); return false;"> 
+		<fieldset>
+
+	<legend>Basic Information</legend>
+
+	<span style="color: red">*</span>
+	<label for="fname">First Name</label>
+	<input type="text" name="fname" id="fname">
+	<span style="color: red" id="fnameError"> </span><br><br>
+
+	<span style="color: red">*</span>
+	<label for="lname">Last Name</label>
+	<input type="text" name="lname" id="lname">
+	 <span style="color: red" id="lnameError"></span><br><br>
+
+	<span style="color: red">*</span>
+	Gender <input type="radio" name="gender" id="male" value="male"> <label for="male">Male</label>
+	<input type="radio" name="gender" id="female" value="female">  <label for="female">Female</label> 
+	<span style="color: red" id="genderError"> </span><br><br>
+
+	<span style="color: red">*</span>
+	<label for="dob">Date of Birth </label>
+	<input type="Date" name="dob" id="dob" > 
+	<span style="color: red" id="dobError"> </span><br><br>
+
+	<span style="color: red">*</span>
+	<label for="religion">Religion </label>
+	<select id="religion" name="religion" id="religion">
+
+		<option value="muslim">Muslim</option>
+		<option value="hindu">Hindu</option>
+		<option value="cristian">Cristian</option>
+		<option value="buddha">Buddha</option>
+		
+	</select> <span style="color: red" id="religionError"> </span>
+</fieldset> <br>
+
+<fieldset>
+	<legend>Contact Information</legend>
+
+	<span style="color: red">*</span>
+	<label for="praddress">Present Address </label>
+	<textarea id="praddress" rows="2" cols="30" name="praddress" ></textarea> 
+	<span style="color: red" id="praddressError"> </span><br><br>
+
+	<span style="color: red">*</span>
+	<label for="peaddress">Permanent Address </label>
+	<textarea id="peaddress" rows="2" cols="30" name="peaddress" ></textarea>
+	 <span style="color: red" id="peaddressError"> </span><br><br>
+
+	<span style="color: red">*</span>
+	<label for="phoneNumber">Phone </label>
+	<input type="tel" name="phoneNumber" id="phoneNumber">
+	  <span style="color: red" id="phoneNumberError"> </span><br><br>
+
+	<span style="color: red">*</span>
+	<label for="mail">Email </label>
+	<input type="Email" name="mail" id="mail">
+	 <span style="color: red" id="mailError"> </span><br><br>
+
+
+</fieldset><br>
+<fieldset>
+	<legend>Account Information</legend>
+
+
+	<span style="color: red">*</span>
+	<label for="userName">User Name </label>
+	<input type="text" name="userName" id="userName"> 
+ <span style="color: red" id="userNameError"></span><br><br>
+
+	<span style="color: red">*</span>
+	<label for="password">Password </label>
+	<input type="password" name="password" id="password">
+	 <span style="color: red ;" id="passwordError"> </span><br><br>
+
+	 <span style="color: red">*</span>
+	<label for="image">Upload an Image </label>
+	<input type="file" name="image" id="image">
+	 <span style="color: red"></span><br><br>
+
+</fieldset><br>
+
+<input class="submit" type="submit" name="submit" value="Submit">
+	</form><br>
+	<!-- Login page link -->
+	<a class="link" href="../RASHEDUL/view/login.html">Do not have any account Login Here</a><br>
+
+
+	 <span class="successful" id="msg"></span>
+<span class="error"></span>
+
+</body>
+</html>

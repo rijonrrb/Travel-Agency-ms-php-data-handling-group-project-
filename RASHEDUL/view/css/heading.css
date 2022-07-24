@@ -1,0 +1,32 @@
+
+.home:hover{
+	background-color: orange;
+	background-size: 40% 10%;
+
+}
+.hometext{
+	text-decoration: none;
+	color: black;
+}
+.cpass:hover{
+	background-color: orange;
+
+}
+.cpassText{
+	text-decoration: none;
+	color: black;
+}
+.updateText{
+	text-decoration: none;
+	color: black;
+}
+.update:hover{
+	background-color: orange;
+}
+.logoutText{
+	text-decoration: none;
+	color: black;
+}
+.logout:hover{
+	background-color: orange;
+}

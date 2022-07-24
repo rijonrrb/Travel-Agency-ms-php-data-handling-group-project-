@@ -1,0 +1,17 @@
+#pass{
+        text-align: center;
+        color: rebeccapurple;
+        font-weight: bold;
+        font-size: 20px;
+       }
+       
+       #passfs{ 
+            width: 50%;
+            box-sizing: border-box; 
+            background: lightsteelblue; 
+            margin: 0 auto;         
+        }
+
+        #lgnd{
+            text-align: center;
+        }

@@ -1,0 +1,42 @@
+.container1
+{
+display: block;
+align-content: center;
+
+}
+.container2
+{
+display: block;
+align-content: center;
+
+}
+.card{
+	width: 500px;
+	height: 500px;
+	display: inline-block;
+	border-radius: 25px;
+	padding: 15px 25px;
+	box-sizing: border-box;
+	cursor: zoom-in;
+	margin: 40px 110px;
+	
+	background-position: center;
+	background-size: cover;
+	transition: transform 0.5s;
+}
+.card1{
+	background-image: url(pack1.jpg);
+}
+.card2{
+	background-image: url(pack2.jpg);
+}
+.card3{
+	background-image: url(pack3.jpg);
+}
+.card4{
+	background-image: url(pack4.jpg);
+}
+.card:hover
+{
+	transform: translateY(-18px);
+}

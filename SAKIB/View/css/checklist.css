@@ -1,0 +1,60 @@
+#checklistfs
+{
+	box-sizing: border-box;
+	background: lightgreen;
+	margin: 0 auto;
+	border-color: darkgoldenrod;
+	text-align: center;
+	width: 50%;
+	height: 50%;
+}
+
+#checklgnd
+{
+	text-align: center;
+}
+
+
+#h2checklist{
+
+    color: darkblue;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    
+}
+
+#checklistbody{
+
+	background: lightgrey;
+}
+
+#id1 {
+  color: black;
+  margin: 0 auto;
+  width: 220px;
+  height: 30px;
+  padding: 20px;
+  background: lightskyblue;
+  transition: width 0.9s;
+  text-align: center;
+}
+
+#id1:hover {
+  width: 320px;
+}
+
+#id2 {
+  color: black;
+  margin: 0 auto;
+  width: 220px;
+  height: 30px;
+  padding: 20px;
+  background: greenyellow;
+  transition: width 0.9s;
+  text-align: center;
+}
+
+#id2:hover {
+  width: 320px;
+}

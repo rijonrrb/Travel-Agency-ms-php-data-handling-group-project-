@@ -1,0 +1,103 @@
+#wbodyfs{
+  margin: 0 auto;
+  border-color: darkmagenta;
+  width: 30%;
+  background: darkgray;
+}
+
+
+#id1 {
+  color: black;
+  margin: 0 auto;
+  width: 220px;
+  height: 30px;
+  padding: 20px;
+  background: blueviolet;
+  transition: width 0.9s;
+  text-align: center;
+}
+
+#id1:hover {
+  width: 320px;
+}
+
+#id2 {
+  color: black;
+  margin: auto;
+  width: 220px;
+  height: 30px;
+  padding: 20px;
+  background: lightskyblue;
+  transition: width 0.5s;
+  text-align: center;
+}
+
+#id2:hover {
+  width: 320px;
+}
+
+#id3{
+  color: black;
+  margin: auto;
+  width: 220px;
+  height: 30px;
+  padding: 20px;
+  background: lightgreen;
+  transition: width 0.5s;
+  text-align: center;
+}
+
+#id3:hover {
+  width: 320px;
+}
+
+#id4 {
+  color: black;
+  margin: auto;
+  width: 220px;
+  height: 30px;
+  padding: 20px;
+  background: yellow;
+  transition: width 0.5s;
+  text-align: center;
+}
+
+#id4:hover {
+  width: 320px;
+}
+
+#id5 {
+  color: black;
+  margin: auto;
+  width: 220px;
+  height: 30px;
+  padding: 20px;
+  background: orange;
+  transition: width 0.5s;
+  text-align: center;
+
+}
+
+#id5:hover {
+  width: 320px;
+}
+
+#id6 {
+  color: black;
+  margin: auto;
+  width: 220px;
+  height: 30px;
+  padding: 20px;
+  background: lightcoral;
+  transition: width 0.5s;
+  text-align: center;
+  
+}
+
+#id6:hover {
+  width: 320px;
+}
+
+
+
+

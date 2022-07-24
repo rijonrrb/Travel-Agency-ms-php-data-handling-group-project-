@@ -1,0 +1,28 @@
+.div{
+	width: 100%; 
+	height: auto;
+	 background-color: rgb(153, 153, 255);
+	  text-align: center;
+}
+.add{
+	text-decoration: none;
+	font-size: 35px;
+}
+.updateInfo{
+	text-decoration: none;
+	font-size: 35px;
+
+}
+.show{
+	text-decoration: none;
+	font-size: 35px;
+}
+.add:hover{
+	border: 5px solid blue;
+}
+.updateInfo:hover{
+	border: 5px solid blue;
+}
+.show:hover{
+	border: 5px solid blue;
+}

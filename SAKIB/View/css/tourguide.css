@@ -1,0 +1,7 @@
+#tgbody{
+
+	background-image: url('pic.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}

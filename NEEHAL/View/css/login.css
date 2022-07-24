@@ -1,0 +1,22 @@
+#heading
+{
+	color: darkolivegreen;
+	text-align: center;
+
+}
+
+#loginfs{
+
+	background: lightgrey ;
+	border-radius: 5px;
+	border : 2px solid darkblue;
+	margin: 0 auto;
+	width: 30%;
+	text-align: center;
+}
+
+#lbody{
+
+	background: lightgrey;
+}
+

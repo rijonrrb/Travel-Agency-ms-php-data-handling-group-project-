@@ -1,0 +1,48 @@
+.container1
+{
+display: block;
+align-content: center;
+
+}
+.container2
+{
+display: block;
+align-content: center;
+
+}
+.card{
+	width: 360px;
+	height: 400px;
+	display: inline-block;
+	border-radius: 25px;
+	padding: 15px 25px;
+	box-sizing: border-box;
+	cursor: zoom-in;
+	margin: 50px 60px;
+	
+	background-position: center;
+	background-size: cover;
+	transition: transform 0.5s;
+}
+.card1{
+	background-image: url(coxx.jpg);
+}
+.card2{
+	background-image: url(india.jpg);
+}
+.card3{
+	background-image: url(maldiv.jpg);
+}
+.card4{
+	background-image: url(thai.jpg);
+}
+.card5{
+	background-image: url(china.jpg);
+}
+.card6{
+	background-image: url(dubai.jpg);
+}
+.card:hover
+{
+	transform: translateY(-28px);
+}

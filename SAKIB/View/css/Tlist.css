@@ -1,0 +1,68 @@
+#tlist{
+
+     background: lightsteelblue;
+     text-align: center;
+     margin: 0 auto;
+     width: 50%;
+     border-color: darkgoldenrod;
+
+}
+
+#h2tlist{
+
+    color: steelblue;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    
+}
+
+#schemabody{
+
+	background: lightgrey;
+}
+
+#id1 {
+  color: black;
+  margin: 0 auto;
+  width: 220px;
+  height: 30px;
+  padding: 20px;
+  background: blueviolet;
+  transition: width 0.9s;
+  text-align: center;
+}
+
+#id1:hover {
+  width: 320px;
+}
+
+#id2 {
+  color: black;
+  margin: 0 auto;
+  width: 220px;
+  height: 30px;
+  padding: 20px;
+  background: greenyellow;
+  transition: width 0.9s;
+  text-align: center;
+}
+
+#id2:hover {
+  width: 320px;
+}
+
+#id3 {
+  color: black;
+  margin: 0 auto;
+  width: 220px;
+  height: 30px;
+  padding: 20px;
+  background: fuchsia;
+  transition: width 0.9s;
+  text-align: center;
+}
+
+#id3:hover {
+  width: 320px;
+}

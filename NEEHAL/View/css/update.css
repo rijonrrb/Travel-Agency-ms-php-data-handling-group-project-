@@ -1,0 +1,24 @@
+ #paraUp{
+        text-align: center;
+        color: darkblue;
+        font-weight: bold;
+        font-size: 20px;
+       }
+       
+       #fsUp{ 
+            width: 50%;
+            box-sizing: border-box; 
+            background: fuchsia; 
+            margin: 0 auto;   
+            font-weight: bold;      
+        }
+
+        
+
+        #updatecustomer{
+            font-weight: bold;
+        }
+        
+        #updateschema{
+            background: lightgrey;
+        }

@@ -1,0 +1,26 @@
+        #feedfs{ 
+            
+            box-sizing: border-box; 
+            background: lightcyan;
+            font-weight: bold;         
+        }
+
+        #lgnd{
+            
+            color: darkblue;
+            font-weight: bold;
+        }
+
+        #customer{
+            font-weight: bold;
+        }
+
+        #h2feedback{
+            color: darkred;
+            text-align: center;
+            font-size: 20px;
+            font-weight: bold;
+        }
+
+
+

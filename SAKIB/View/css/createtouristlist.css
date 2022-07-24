@@ -1,0 +1,16 @@
+ #list{
+        text-align: center;
+        color: darkblue;
+        font-weight: bold;
+        font-size: 20px;
+       }
+       
+ #fsl{ 
+            width: 50%;
+            box-sizing: border-box; 
+            font-weight: bold;
+            background: mistyrose; 
+            margin: 0 auto;         
+        }
+
+        

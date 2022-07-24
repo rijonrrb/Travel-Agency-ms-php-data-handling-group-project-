@@ -1,0 +1,115 @@
+a {
+  text-decoration: none;
+}
+#p1 {
+  color: white;
+  margin: auto;
+  width: 220px;
+  height: 30px;
+  border: 5px outset white;
+  background: red;
+  transition: width 0.5s;
+  text-align: center;
+}
+
+#p1:hover {
+  background: rgb(107,142,35,0.6);
+  width: 320px;
+}
+
+#p2 {
+  color: white;
+  margin: auto;
+  width: 220px;
+  height: 30px;
+  border: 5px outset white;
+  background: red;
+  transition: width 0.5s;
+  text-align: center;
+}
+
+#p2:hover {
+  background: rgb(107,142,35,0.6);
+  width: 320px;
+}
+#p3 {
+  color: white;
+  margin: auto;
+  width: 220px;
+  height: 30px;
+  border: 5px outset white;
+  background: red;
+  transition: width 0.5s;
+  text-align: center;
+}
+
+#p3:hover {
+  background: rgb(107,142,35,0.6);
+  width: 320px;
+}
+#p4 {
+  color: white;
+  margin: auto;
+  width: 220px;
+  height: 30px;
+  border: 5px outset white;
+  background: red;
+  transition: width 0.5s;
+  text-align: center;
+}
+
+#p4:hover {
+  background: rgb(107,142,35,0.6);
+  width: 320px;
+}
+#p5 {
+  color: white;
+  margin: auto;
+  width: 220px;
+  height: 30px;
+  border: 5px outset white;
+  background: red;
+  transition: width 0.5s;
+  text-align: center;
+}
+
+#p5:hover {
+  background: rgb(107,142,35,0.6);
+  width: 320px;
+}
+#p6 {
+  color: white;
+  margin: auto;
+  width: 220px;
+  height: 30px;
+  border: 5px outset white;
+  background: red;
+  transition: width 0.5s;
+  text-align: center;
+}
+
+#p6:hover {
+  background: rgb(107,142,35,0.6);
+  width: 320px;
+}
+
+body{
+  background-image: url('trvl.jpg');
+  background-repeat: no-repeat;
+  background-attachment: scroll;  
+  background-size: cover;
+}
+
+div {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+  background-image: url('trvl1.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
+  padding: 283px 0;
+  border: 10px inset gray;
+  background-color: #F2E6D6;
+}

@@ -1,0 +1,26 @@
+.image{
+	float: right;
+	height: 210px;
+	width: 210px;
+
+}
+.submit{
+	height: 40px;
+	width: 150px;
+	background-color: orange;
+	font-family: sans-serif;
+	font-weight: 100;
+}
+.update-form{
+	width: 100%; 
+	height:auto; 
+	background-color: rgb(153, 153, 255); 
+	text-align: center;
+}
+.submit:hover{
+	border: 2px red solid;
+}
+.fieldset{
+	border: green 3px solid;
+
+}

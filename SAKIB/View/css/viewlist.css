@@ -1,0 +1,21 @@
+ #viewlistpara{
+        
+        color: darkblue;
+        font-weight: bold;
+        font-size: 20px;
+       }
+       
+       #viewlistfs{ 
+            
+            box-sizing: border-box; 
+            background: mistyrose; 
+            background: lightcyan;
+                  
+        }
+        
+        #heading{
+            color: darkred;
+            font-size: 20px;
+        }
+
+        

@@ -1,0 +1,19 @@
+.destination{
+	width: 20%;
+}
+.duration{
+	width: 20%;
+}
+.price{
+	width: 20%;
+}
+.submit{
+
+	height: 40px;
+	width: 150px;
+	background-color: orange;
+
+}
+.submit:hover{
+	border: 4px solid green;
+}

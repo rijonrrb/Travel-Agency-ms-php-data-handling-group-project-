@@ -1,0 +1,14 @@
+#editcheck{
+	
+	color: darkblue;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: center;
+}
+
+#editfs{
+
+	background: mistyrose;
+	width: 50%;
+	box-sizing: border-box;
+}

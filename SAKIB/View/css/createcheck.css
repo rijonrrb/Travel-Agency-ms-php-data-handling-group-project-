@@ -1,0 +1,15 @@
+ #checklist{
+        text-align: center;
+        color: darkblue;
+        font-weight: bold;
+        font-size: 20px;
+       }
+       
+       #checkfs{ 
+            width: 50%;
+            box-sizing: border-box; 
+            background: mistyrose; 
+                   
+        }
+
+       

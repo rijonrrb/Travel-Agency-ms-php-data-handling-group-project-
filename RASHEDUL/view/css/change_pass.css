@@ -1,0 +1,28 @@
+.form-class{
+	width: 100%;
+	height: auto;
+	background-color: rgb(153, 153, 255);
+	text-align: center;
+
+}
+.legend{
+	
+	font-size: 30px;
+}
+.submit{
+	height: 40px;
+	width: 150px;
+	background-color: orange;
+	border-radius: 5px;
+	
+
+}
+.fieldset{
+	border: green 3px solid;
+
+}
+.submit:hover{
+
+	border: 2px red solid;
+
+}
